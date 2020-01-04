@@ -9,6 +9,7 @@ function inception() {
     return inception();
 }
 inception()
-// stackoverflow is WHEN A FUNC CALLS ITSELF UNTIL THE
+// stackoverflow is WHEN A FUNC CALLS ITSELF
+// UNTIL THE
 //MAN ON A COUCH IS DROWNED
 
